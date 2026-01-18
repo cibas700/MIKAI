@@ -1,4 +1,4 @@
-##⚙️Comandi da eseguire nel terminale della macchina Linux
+#⚙️Comandi da eseguire nel terminale della macchina Linux
 
 '''sudo apt-get install flex libpcsclite-dev libusb-dev checkinstall'''
 '''sudo apt-get install libnfc6'''
@@ -13,6 +13,8 @@ Aggiungere queste 3 voci
 - blacklist pn533_usb
 
 '''sudo reboot'''
+
+---
 
 ##⚙️Comandi da eseguire dopo aver effettuato il riavvio:
 Aprire il terminale e spostarsi con il terminale nella cartella dove è stato estratto MIKAI ed eseguire:
