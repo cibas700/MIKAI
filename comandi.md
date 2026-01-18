@@ -20,7 +20,7 @@ sudo reboot
 
 ---
 
-##⚙️Comandi da eseguire dopo aver effettuato il riavvio:
+## ⚙️ Comandi da eseguire dopo aver effettuato il riavvio:
 Aprire il terminale e spostarsi con il terminale nella cartella dove è stato estratto MIKAI ed eseguire:
 
 ```bash
